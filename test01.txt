@@ -1,1 +1,3 @@
 voici un peu de texte dans mon fichier de test.
+
+Une petite modification avant d'aller plus loin.
